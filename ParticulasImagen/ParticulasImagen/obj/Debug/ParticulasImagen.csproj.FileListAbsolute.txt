@@ -1,0 +1,12 @@
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\bin\Debug\ParticulasImagen.exe.config
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\bin\Debug\ParticulasImagen.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\bin\Debug\ParticulasImagen.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.Properties.Resources.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.csproj.GenerateResource.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.Form1.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\ParticulasImagen\ParticulasImagen\obj\Debug\ParticulasImagen.Resource1.resources
